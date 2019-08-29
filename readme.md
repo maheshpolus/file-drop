@@ -10,7 +10,7 @@ Download the component and add it into your module.
 ## Usage
 
 ```TypeScript
-import { FileDropComponent } from './file-drop/file-drop.component.ts';
+import { FileDropComponent } from './file-drop/file-drop.component';
 import { DragNdropDirective } from './file-drop/drag-ndrop.directive';
 
 @NgModule({
